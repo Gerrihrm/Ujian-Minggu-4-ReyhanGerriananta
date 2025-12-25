@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Java Testing" verbose="1">
+  <test name="API Platform Test">
+    <classes>
+      <class name="com.juaracoding.resttest.api.ProductAPITest"></class>
+      <class name="com.juaracoding.resttest.api.LoginAPITest"></class>
+    </classes>
+  </test>
+</suite>

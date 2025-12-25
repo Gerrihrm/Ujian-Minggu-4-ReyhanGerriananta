@@ -1,0 +1,23 @@
+# Build artifacts
+/target/
+
+# Log files
+*.log
+hs_err_pid*
+
+# IDE configuration files
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
+
+# Maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+# Local user settings
+nb-configuration.xml
+.nb-gradle/
